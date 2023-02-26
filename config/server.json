@@ -1,0 +1,7 @@
+{
+  "serverID": "1073998883300069507",
+  "ownerID": "931926386665467956",
+  "message": "thx for boosting",
+  "addBoostReaction": "y",
+  "Boostreaction": "can be empty if addBoostReaction is egal to n else, insert a discord (custom emoji)"
+  }
